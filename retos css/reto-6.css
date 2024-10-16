@@ -1,0 +1,7 @@
+a:link{ text-decoration:#red;}
+
+a:active{text-decoration:#orange;}
+
+a:visited{ text-decoration:#teal;}
+
+a:hover{  text-decoration:#blue;}

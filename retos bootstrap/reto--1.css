@@ -1,0 +1,47 @@
+body {margin: 0;
+    font-family: sans-serif;
+}
+form{background: #ffff;
+width:360px;
+margin:10px auto;
+}
+option{display:block;
+    border-radius: 5px 5px 5px 5px;
+}
+h1 {
+  margin:0px;
+  padding: opx;
+}
+button{width:95px;
+height:30px;
+background:#19B451;
+color:#ffff;
+text-align:left;
+border-radius: 5px 5px 5px 5px;
+}
+
+input{padding:10px 100px;
+height:20px;
+color:#000000;
+border-radius: 5px 5px 5px 5px;
+overflow: visible;
+box-sizing: border-box;
+}
+
+p{background:#ffff;
+    color:#000000;
+    
+}
+legend {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+}
+
+
+
